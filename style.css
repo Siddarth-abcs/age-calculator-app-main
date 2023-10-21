@@ -33,6 +33,7 @@ body {
     height: 100vh;
     background: var(--Offwhite);
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
